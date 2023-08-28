@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input renders correctly: Regular 1`] = `
+<div>
+  <input
+    class="sc-bczRLJ ejAZYi"
+  />
+</div>
+`;
+
+exports[`Input renders disabled correctly: Disabled 1`] = `
+<div>
+  <input
+    class="sc-bczRLJ ejAZYi"
+    disabled=""
+  />
+</div>
+`;
+
+exports[`Input renders invalid correctly: Invalid 1`] = `
+<div>
+  <input
+    aria-invalid="true"
+    class="sc-bczRLJ ejAZYi"
+  />
+</div>
+`;

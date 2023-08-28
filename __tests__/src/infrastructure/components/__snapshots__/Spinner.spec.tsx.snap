@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Spinner renders correctly: Regular 1`] = `
+<div>
+  <svg
+    aria-label="Loading"
+    class="sc-bczRLJ hswLeu"
+    viewBox="0 0 50 50"
+  >
+    <circle
+      class="sc-gsnTZi fByHmj"
+      cx="25"
+      cy="25"
+      r="20"
+    />
+  </svg>
+</div>
+`;

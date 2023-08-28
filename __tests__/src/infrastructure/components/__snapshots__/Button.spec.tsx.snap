@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button renders correctly: Regular 1`] = `
+<div>
+  <button
+    class="sc-bczRLJ cpcsKP"
+  >
+    Jest
+  </button>
+</div>
+`;
+
+exports[`Button renders disabled correctly: Disabled 1`] = `
+<div>
+  <button
+    class="sc-bczRLJ cpcsKP"
+    disabled=""
+  >
+    Jest
+  </button>
+</div>
+`;
